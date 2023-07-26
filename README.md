@@ -1,0 +1,2 @@
+# numPyAssignment2Amit
+numPyAssignment2Amit
